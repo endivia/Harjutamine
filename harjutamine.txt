@@ -1,0 +1,39 @@
+GitHub on veebisait ja teenus, mida kuuleme geeksi kogu aeg, kuid paljud inimesed ei mõista, mida ta tegelikult teeb. Tahad teada, mida kõik GitHub hubbub on? Loe edasi, et teada saada.
+
+„Git” GitHubis
+GitHubi mõistmiseks peate kõigepealt mõistma Giti. Git on avatud lähtekoodiga versiooni juhtimissüsteem, mille alustas Linus Trovalds - sama isik, kes loonud Linuxi. Git on sarnane teiste versioonikontrollisüsteemidega - Subversion, CVS ja Mercurial, et nimetada vaid mõnda.
+
+Niisiis, Git on versioonikontrollisüsteem, aga mida see tähendab? Kui arendajad loovad midagi (näiteks rakendus), muudavad nad koodi pidevalt, vabastades uued versioonid kuni esimese ametliku (mitte-beeta) versioonini.
+  Versiooni juhtimissüsteemid hoiavad neid parandusi sirgena, säilitades muudatused keskregistris. See võimaldab arendajatel hõlpsasti koostööd teha, kuna nad saavad alla laadida uue tarkvara versiooni, teha muudatusi ja üles laadida uusima versiooni. Iga arendaja näeb neid uusi muudatusi, neid alla laadida ja kaasa aidata.
+
+Samamoodi saavad inimesed, kellel pole projekti arendamisega midagi pistmist, faile alla laadida ja neid kasutada. Enamik Linuxi kasutajaid peaks seda protsessi tuttav olema, sest Git, Subversioni või mõne muu sarnase meetodi kasutamine on vajalike failide allalaadimiseks üsna tavaline, eriti programmi ettevalmistamisel lähtekoodist (pigem tavaline Linuxi geeks).
+
+Git on enamiku arendajate eelistatud versioonikontrollisüsteem, kuna tal on teiste süsteemide ees mitmeid eeliseid. See salvestab failimuudatused tõhusamalt ja tagab failide terviklikkuse. Kui olete huvitatud üksikasjade tundmisest, on Git'i põhiteabe lehel põhjalik selgitus, kuidas Git töötab.
+
+„Hub” GitHubis
+Oleme kindlaks teinud, et Git on versioonikontrollisüsteem, mis on sarnane, kuid parem kui paljud saadaval olevad alternatiivid. Niisiis, mis teeb GitHubi nii eriliseks? Git on käsurea tööriist, kuid keskus, mille ümber on kõik Gitiga seotud asjad, on hub-GitHub.com, kus arendajad salvestavad oma projektid ja võrgud sarnaste mõtetega inimestega.
+
+Lähme üle mõned peamised põhjused, mis soovivad kasutada GitHubi ja õppida teekonda mõningast terminoloogiat.
+
+Hoidla
+Hoidla (tavaliselt lühendatud repoga) on koht, kus kõik konkreetse projekti failid salvestatakse. Igal projektil on oma repo ja selle juurde pääsete unikaalse URL-iga
+
+  Repo haaramine
+“Forking” on siis, kui loote uue projekti, mis põhineb teisel juba olemasoleval projektil. See on hämmastav omadus, mis julgustab programmide ja muude projektide edasist arendamist. Kui leiate GitHubis projekti, mida soovid kaasa aidata, saate oma repotehingut teha, teha soovitud muudatusi ja vabastada muudetud projekt uueks repoks. Kui värskendatakse algset hoidlat, mida uue projekti loomiseks kasutasite, saate neid värskendusi hõlpsasti lisada oma praegusele kettale.
+
+Tõmba taotlused
+Olete loonud hoidla, teinud suure projekti läbivaatamise ja soovid, et seda tunnustaksid algsed arendajad, võib-olla isegi ametlikku projekti / hoidlasse. Seda saate teha tõmbenõude loomisega. Algse hoidla autorid saavad teie tööd näha ja seejärel valida, kas see ametlikku projekti vastu võtta või mitte. Kui te väljastate tõmbe taotluse, pakub GitHub teie ja peamise projekti hooldaja jaoks ideaalset suhtlusvahendit.
+
+Sotsiaalvõrgustik
+GitHubi suhtlusvõrgustiku aspekt on tõenäoliselt selle kõige võimsam funktsioon, mis võimaldab projektidel kasvada rohkem kui mistahes pakutavatest omadustest. Igal GitHubi kasutajal on oma profiil, mis toimib nagu taaskord, näidates teie varasemat tööd ja panustamist teistesse projektidesse tõmbenõuete kaudu.
+
+Projekti ülevaatusi saab avalikult arutada, nii et hulgaliselt eksperte saab anda teadmisi ja teha koostööd, et projekti edasi arendada. Enne GitHubi tulekut peavad projektile panustamisest huvitatud arendajad üldjuhul leidma mõningaid vahendeid autori poole pöördumiseks - tõenäoliselt e-posti teel - ja seejärel veenma neid, et neid saab usaldada ja nende panus on legitiimne.
+
+Changelogs
+Kui projektis osaleb mitu inimest, on keeruline jälgida muudatusi, kes muutsid, millised, millal ja kus need failid on salvestatud. GitHub hoolitseb selle probleemiga, jälgides kõiki muudatusi, mis on ladustatud hoidlasse.
+
+GitHub ei ole lihtsalt arendajatele
+Kõik see, kuidas GitHub programmeerijatele ideaalselt sobib, võib oletada, et nad on ainsad, kes leiavad, et see on kasulik. Kuigi see on palju vähem levinud, saate tegelikult kasutada GitHubi mis tahes tüüpi failidele. Kui teil on meeskond, kes teeb Wordi dokumendis pidevalt muudatusi, võite näiteks kasutada GitHubi oma versioonikontrollisüsteemina. See tava ei ole tavaline, kuna enamikul juhtudel on paremad alternatiivid, kuid see on midagi meeles pidada.
+
+Nüüd, kui sa tead, mida GitHub on, kas te olete valmis alustama? Mine üle GitHub.com ja vaadake kindlasti oma abileheküljed pärast registreerumist.
+
