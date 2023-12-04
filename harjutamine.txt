@@ -36,4 +36,9 @@ GitHub ei ole lihtsalt arendajatele
 Kõik see, kuidas GitHub programmeerijatele ideaalselt sobib, võib oletada, et nad on ainsad, kes leiavad, et see on kasulik. Kuigi see on palju vähem levinud, saate tegelikult kasutada GitHubi mis tahes tüüpi failidele. Kui teil on meeskond, kes teeb Wordi dokumendis pidevalt muudatusi, võite näiteks kasutada GitHubi oma versioonikontrollisüsteemina. See tava ei ole tavaline, kuna enamikul juhtudel on paremad alternatiivid, kuid see on midagi meeles pidada.
 
 Nüüd, kui sa tead, mida GitHub on, kas te olete valmis alustama? Mine üle GitHub.com ja vaadake kindlasti oma abileheküljed pärast registreerumist.
+Harude ühendamine
+Filiaali ühendamiseks sellega, millega praegu töötate, kasutage:
 
+Ühenda [haru]
+
+Kuid muidugi viib see kõik konfliktideni. Ja see on tõesti probleem. Nii et proovige kõike pliiatsitega parandada otse hoidla kataloogis. Alles siis ärge unustage märkida, et olete need "lekkinud":
